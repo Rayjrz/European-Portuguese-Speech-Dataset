@@ -4,4 +4,6 @@ European Portuguese Speech Commands Dataset
 
 ## License
 
-European Portuguese Speech Commands Dataset by [Ruize Jia](https://www.linkedin.com/in/ruize-jia/) is licensed under [CC BY-NC 4.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+This dataset is distributed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE.md) license. For more information, see the [LICENSE](LICENSE.md) file.
+
+For a summary of what this license allows and does not allow, please refer to the [Creative Commons website](https://creativecommons.org/licenses/by-nc/4.0/).
