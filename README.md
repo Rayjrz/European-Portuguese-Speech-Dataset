@@ -1,6 +1,6 @@
 # European-Portuguese-Speech-Dataset
 
-This speech dataset contains recordings of numbers, command words, instructions in the context of Macao Tourism, featuring 37 speakers from Portugal, Macao, and Cape Verde. 
+This speech dataset contains recordings of numbers, command words, instructions in the context of Macao tourism, featuring 37 speakers from Portugal, Macao, and Cape Verde. 
 
 ## Background
 
