@@ -16,7 +16,7 @@ Speakers 021-036 are native Portugeuse speakers from Cape Verde.
 
 ## Transcripts
 
-The transcripts of the recordings are stored in the [corpus](corpus) folder.
+The transcripts of the recordings are in the [corpus](corpus) folder. For details on the dataset's design, including translations and categories for each recording term in English, Portuguese, and Chinese, see [keys.xlsx](keys.xlsx).
 
 ## Audio Format
 
