@@ -1,21 +1,32 @@
 # European-Portuguese-Speech-Dataset
 
-This Speech Dataset contains recordings of numbers, command words, instructions in the context of Macao Tourism from 37 speakers from Portugal, Macao, and Cape Verde. 
+This Speech Dataset contains recordings of numbers, command words, instructions in the context of Macao Tourism, featuring 37 speakers from Portugal, Macao, and Cape Verde. 
 
 ## Background
-Low number of Public European Portuguese Dataset are presented in the Internet, this dataset
+
+There are limited number of public European Portuguese dataset on the Internet. This dataset presents a collection of recording collected during the COVID-19 pandemic using smartphone. It provides a valuable, free resource for fine-tuning/testing Automatic Speech Recogniction (ASR) system for European Portuguese.
 
 ## Speakers
-000-006
-007-020
-021-036
+
+Speakers 000-006 are native Portugeuse speakers from Portugal.
+Speakers 007-020 are moderate-level Portuguese learner from Macao.
+Speakers 021-036 are native Portugeuse speakers from Cape Verde.
+
+## Audio Format
+
+All audio files are processed in 16-bit PCM, Mono, with a sample rate of 48000HZ.
+
 ## Transcripts
 
+The transcripts of the recordings are stored in the [corpus](corpus) folder.
+
 ## Special Thanks
-This dataset is designed by Ruize Jia, U Peng-Tat and Henrique Lio, collected by Ruize Jia and Yapeng Wang, processed and annotated by Ruize Jia
+
+This dataset was designed by [Ruize Jia](mailto:jiaruize98@gmail.com), [U Peng-Tat](mailto:upengtat01@gmail.com) and [Henrique Lio](mailto:w.hankielio@gmail.com), collected by [Yapeng Wang](mailto:yapengwang@mpu.edu.mo) and [Ruize Jia](mailto:jiaruize98@gmail.com), processed and annotated by Ruize Jia.
+
 ## Contact
 
-If you have any questions, please contact jiaruize98@gmail.com
+If you have any questions, please contact [jiaruize98@gmail.com](mailto:jiaruize98@gmail.com)
 
 ## License
 
