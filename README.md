@@ -1,6 +1,21 @@
-# European-Portuguese-Speech-Commands
+# European-Portuguese-Speech-Dataset
 
-European Portuguese Speech Commands Dataset
+This Speech Dataset contains recordings of numbers, command words, instructions in the context of Macao Tourism from 37 speakers from Portugal, Macao, and Cape Verde. 
+
+## Background
+Low number of Public European Portuguese Dataset are presented in the Internet, this dataset
+
+## Speakers
+000-006
+007-021
+023-036
+## Transcripts
+
+## Special Thanks
+This dataset is designed by Ruize Jia, U Peng-Tat and Henrique Lio, collected by Ruize Jia and Yapeng Wang, processed and annotated by Ruize Jia
+## Contact
+
+If you have any questions, please contact jiaruize98@gmail.com
 
 ## License
 
