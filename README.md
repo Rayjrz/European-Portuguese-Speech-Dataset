@@ -4,7 +4,7 @@ This Speech Dataset contains recordings of numbers, command words, instructions 
 
 ## Background
 
-There are limited number of public European Portuguese dataset on the Internet. This dataset presents a collection of recording collected during the COVID-19 pandemic using smartphone. It provides a valuable, free resource for fine-tuning/testing Automatic Speech Recogniction (ASR) system for European Portuguese.
+There is limited number of public European Portuguese datasets on the Internet. This dataset presents a collection of recordings collected during the COVID-19 pandemic using smartphones. It provides an authentic, free resource for fine-tuning/testing Automatic Speech Recognition (ASR) system for European Portuguese.
 
 ## Speakers
 
