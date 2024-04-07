@@ -8,6 +8,8 @@ There is limited number of public European Portuguese datasets on the Internet. 
 
 ## Speakers
 
+Folders in [speakers](speakers) are named using a three-digit code followed by the speaker's gender (m for male, f for female), e.g., 006_f_ for a male speaker and 007_f_ for a female speaker.
+
 Speakers 000-006 are native Portugeuse speakers from Portugal.
 
 Speakers 007-020 are moderate-level Portuguese learner from Macao.
