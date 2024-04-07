@@ -14,13 +14,13 @@ Speakers 007-020 are moderate-level Portuguese learner from Macao.
 
 Speakers 021-036 are native Portugeuse speakers from Cape Verde.
 
-## Audio Format
-
-All audio files are processed in 16-bit PCM, Mono, with a sample rate of 48000Hz.
-
 ## Transcripts
 
 The transcripts of the recordings are stored in the [corpus](corpus) folder.
+
+## Audio Format
+
+All audio files are processed in 16-bit PCM, Mono, with a sample rate of 48000Hz.
 
 ## Special Thanks
 
