@@ -7,8 +7,8 @@ Low number of Public European Portuguese Dataset are presented in the Internet, 
 
 ## Speakers
 000-006
-007-021
-023-036
+007-020
+021-036
 ## Transcripts
 
 ## Special Thanks
