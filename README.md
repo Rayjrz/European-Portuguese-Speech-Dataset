@@ -12,7 +12,7 @@ Folders in [speakers](speakers) are named using a three-digit code followed by t
 
 Speakers 000-006 are native Portugeuse speakers from Portugal.
 
-Speakers 007-020 are moderate-level Portuguese learner from Macao.
+Speakers 007-020 are moderate-level Portuguese speakers from Macao.
 
 Speakers 021-036 are native Portugeuse speakers from Cape Verde.
 
